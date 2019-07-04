@@ -1,4 +1,4 @@
-# Doom-Classic
+# DoomClassic
 Welcome To Doom Classic
 GZDoom 3.0.1a Completed
 No Episode Master Level
