@@ -1,6 +1,3 @@
 # DoomClassic
-Welcome To Doom Classic
-GZDoom 3.0.1a Completed
-Play Doom Like For Hell
-Rip And Tear....
+Welcome To Doom Classic Complete 
 Enjoy.
