@@ -1,3 +1,3 @@
 # DoomClassic
-Welcome To Doom Classic Complete 
+Welcome To Doom Classic Complete For GZDoom
 Enjoy.
